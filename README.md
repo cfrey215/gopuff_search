@@ -14,7 +14,7 @@ npm update
 then 
 
 ```bash
-npm run tests
+npm run test
 ```
 
 or
