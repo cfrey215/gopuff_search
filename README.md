@@ -8,7 +8,7 @@ Sample testing of the goPuff webapp Search functionality
 * From the project folder run:
 
 ```bash
-npm install
+npm update
 ```
 
 then 
